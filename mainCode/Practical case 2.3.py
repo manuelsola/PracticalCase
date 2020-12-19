@@ -8,7 +8,7 @@ noProducts= "INFO: there are no products in the catalog"
 #constants
 vat_value = 0.21
 
-
+#functions
 #functions
 def tryN(value):
     notaFloat = 0
